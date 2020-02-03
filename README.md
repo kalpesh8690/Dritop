@@ -5,7 +5,7 @@
 
 ### Screenshot
 ```
-![1](https://github.com/kpzo/Dritop/.png)
+![1](https://github.com/kpzo/Dritop/Screenshot_2020-02-04-01-26-43-59.png)
 ```
 
 ### Usage
