@@ -5,8 +5,10 @@
 
 ### Usage
 
+
+
 ```
-usage: wgen.py [-h] [-chr CHARS] [-min MIN_LENGTH] [-max MAX_LENGTH]
+usage: kpzo.py [-h] [-chr CHARS] [-min MIN_LENGTH] [-max MAX_LENGTH]
                [-out OUTPUT]
 
 Python Wordlist Generator
@@ -26,11 +28,11 @@ optional arguments:
 ### Example
 
 ```
-$ python3 wgen.py -chr=abc -min=1 -max=4 -out=output/wordlist.txt
+$ python3 kpzo.py -chr=1234 -min=1 -max=4 -out=output/wordlist.txt
 
 # or
 
-$ python3 wgen.py --chars=abc --min_length=1 --max_length=4 --output=output/wordlist.txt
+$ python3 kpzo.py --chars=abc --min_length=1 --max_length=4 --output=output/wordlist.txt
 ```
 
 ### Disclaimer
