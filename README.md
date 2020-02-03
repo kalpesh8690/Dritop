@@ -4,7 +4,7 @@
 > You can check sample this file: [`output/wordlist.txt`](output/wordlist.txt)
 
 ### 📷: Screenshot:
-![1](https://github.com/kpzo/Dritop/Screenshot_2020-02-04-01-26-43-59.png)
+![1](Screenshot_2020-02-04-01-26-43-59.png)
 
 ### Usage
 ```
