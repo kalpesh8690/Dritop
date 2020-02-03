@@ -3,10 +3,12 @@
 > Creating Awesome Wordlist with Python.
 > You can check sample this file: [`output/wordlist.txt`](output/wordlist.txt)
 
+### Screenshot
+```
+![1](https://github.com/kpzo/Dritop/.png)
+```
+
 ### Usage
-
-
-
 ```
 usage: kpzo.py [-h] [-chr CHARS] [-min MIN_LENGTH] [-max MAX_LENGTH]
                [-out OUTPUT]
